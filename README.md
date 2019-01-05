@@ -1,4 +1,4 @@
-# baekjoon
+# Algorithm
 ----------
-> - BAEKJOON(https://www.acmicpc.net/)
+> - Baekjoon Online Judge(https://www.acmicpc.net/)
 > - oncorder(https://www.oncoder.com/developer/)
