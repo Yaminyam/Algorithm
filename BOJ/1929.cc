@@ -16,7 +16,8 @@ int main()
 	for (int i = n; i <= n2; i++)
 	{
 		if (i == 1)num = true;
-		for (int j = 2; j <= sqrt(i); j++) {
+		int squre = sqrt(i);
+		for (int j = 2; j <= squre; j++) {
 			if ((i % j) == 0)
 			{
 				num = true;
